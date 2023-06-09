@@ -8,6 +8,6 @@
 
 
 ## Funcionamiento
-![](img/descarga.jpg)
+![](img/Golden.jpg)
 
 
